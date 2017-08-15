@@ -17,7 +17,7 @@ is to use `docker-phpqa` which requires you to have
 installed on your machine.
 
 You'll also need to configure Docker to have access to the directory where you
-will be writing tests locally on your machine. Just go to Docker -> Perefernces
+will be writing tests locally on your machine. Just go to Docker -> Preferences
 -> File Sharing and click the `+` button to allow access.
 
 Once you have Docker up and running, just follow the [tutorial on the TestFest site](https://phptestfest.org/tutorials/phpqa-tutorial/)
